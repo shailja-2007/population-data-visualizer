@@ -1,3 +1,7 @@
+# Name: Shailja kashyap
+# ERP: 00910
+# program: BCA-1C
+# project: population data visualizer
 import pandas as pd
 import matplotlib.pyplot as plt
 
